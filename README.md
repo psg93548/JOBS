@@ -4,9 +4,10 @@ JObs
 
 # QA Engineer — Full-Time — Remote (US)
 
-https://archive.org/download/vols_pas_chers_2026/vols_pas_chers_2026.pdf
-https://archive.org/download/vols_pas_chers_2026/vpn_cybersecurite_2026.pdf
-
+[https://archive.org/download/vols_pas_chers_2026/vols_pas_chers_2026.pdf
+](https://ia801402.us.archive.org/35/items/vols_pas_chers_2026/vols_pas_chers_2026.pdf)
+[https://archive.org/download/vols_pas_chers_2026/vpn_cybersecurite_2026.pdf
+](https://ia601402.us.archive.org/35/items/vols_pas_chers_2026/vpn_cybersecurite_2026.pdf)
 
 **Fernway**, a 3-person edtech startup, is hiring a **QA Engineer**.
 
